@@ -13,6 +13,8 @@
 
 <br>
 
+<img src = https://user-images.githubusercontent.com/33304898/88009263-0d0b8300-cb4d-11ea-866f-2e819c5a79a1.png width = 30% height = auto>
+
 ## 📌 요구사항
 
 ### 0. 공통
